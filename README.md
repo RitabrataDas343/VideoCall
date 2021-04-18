@@ -50,33 +50,8 @@ Any contributions you make are **greatly appreciated**.
 
 ## Tech Stacks / Tools used
 
-<p>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/webrtc.png" height=40 hspace=20>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/html.png" height=40 hspace=20>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/css.png" height=40 hspace=20>
-  <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/javascript.png" height=40 hspace=20>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ishaanohri/">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/linkedin.png" width="30" height="30" hspace="20">
-  </a>
-
-  <a href="mailto:ishaan99ohri@gmail.com">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/mail.png" width="30" height="30" hspace="20">
-  </a>
-
-  <a href="https://stackoverflow.com/users/11712463/ishaan-ohri">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/stackoverflow.png" width="30" height="30" hspace="20">
-  </a>
-
-  <a href="https://www.instagram.com/ohri_8/">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/instagram.png" width="30" height="30" hspace="20">
-  </a>
-
-  <a href="https://github.com/IshaanOhri">
-    <img src="https://github.com/IshaanOhri/IshaanOhri/blob/master/assets/github.png" width="30" height="30" hspace="20">
-  </a>
-</p>
+* HTML
+* CSS
+* JS
+* WebRTC
+* BootStrap
